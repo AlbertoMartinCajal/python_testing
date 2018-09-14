@@ -1,2 +1,2 @@
 cd ../
-python ./simple.py
+coverage run ./simple.py
