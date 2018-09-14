@@ -1,2 +1,3 @@
 cd ../
-coverage run ./simple.py
+coverage run --source=./ ./simple.py
+
