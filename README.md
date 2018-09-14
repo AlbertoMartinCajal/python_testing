@@ -1,6 +1,7 @@
 # python_testing
 
 [![Build Status](https://travis-ci.org/AlbertoMartinCajal/python_testing.svg?branch=master)](https://travis-ci.org/AlbertoMartinCajal/python_testing)
+[![codecov](https://codecov.io/gh/AlbertoMartinCajal/python_testing/branch/master/graph/badge.svg)](https://codecov.io/gh/AlbertoMartinCajal/python_testing)
 
 https://docs.travis-ci.com/user/languages/python/
 
