@@ -4,4 +4,4 @@ python:
 install:
   - pip install -r requirements.txt
 script:
-  - python simple.py
+  - sh ./scripts/launch_main.sh
