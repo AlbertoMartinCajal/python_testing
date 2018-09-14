@@ -9,6 +9,3 @@ install:
 script:
   - cd ./scripts/ 
   - sh ./launch_main.sh
-
-after_success:
-  - codecov
