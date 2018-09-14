@@ -1,5 +1,7 @@
 # python_testing
 
+[![Build Status](https://travis-ci.org/AlbertoMartinCajal/python_testing.svg?branch=master)](https://travis-ci.org/AlbertoMartinCajal/python_testing)
+
 https://docs.travis-ci.com/user/languages/python/
 
 https://pip.pypa.io/en/stable/user_guide/#id1
